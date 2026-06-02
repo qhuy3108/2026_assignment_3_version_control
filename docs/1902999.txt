@@ -16,3 +16,6 @@
 
 ### Changed 
 - Fixed high-severity XXXXXXX bugs in 'data/1902999.txt' (#117) 
+
+### Changed
+- Fixed low-severity UPPERCASE bugs in 'data/1902999.txt' (#118)
